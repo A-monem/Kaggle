@@ -1,2 +1,3 @@
-# Kaggle-Dogs-vs-Cats
-Multiple approach to Dogs vs. Cats Kaggle competition 
+Kaggle
+This repository contains the codes that has been written for Kaggle competitions
+Kaggle Profile : https://www.kaggle.com/aamnafea
